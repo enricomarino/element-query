@@ -1,0 +1,13 @@
+{
+  "name": "element-query",
+  "repo": "enricomarino/element-query",
+  "description": "query selector plugin for element",
+  "version": "0.0.1",
+  "keywords": ["query", "selector", "element"],
+  "dependencies": {},
+  "development": {
+    "component/assert": "*"
+  },
+  "license": "MIT",
+  "scripts": ["index.js"]
+}
